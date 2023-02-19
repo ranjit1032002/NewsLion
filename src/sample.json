@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "World Club Challenge: Penrith Panthers v St Helens - radio & text",
+      "description": "Listen to BBC Radio 5 Live Sports Extra commentary and follow live text updates on Penrith Panthers v St Helens at ABC Grandstand in Australia.",
+      "url": "http://www.bbc.co.uk/sport/live/rugby-league/64632816",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+      "publishedAt": "2023-02-18T07:52:21.4582536Z",
+      "content": "St Helens were there right at the start of the concept, when they took on Eastern Suburbs - now known as the Sydney Roosters - in a challenge match back in 1976.\r\nThat game sowed a seed for a rivalry… [+928 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "Sportsnet says Blue Jays road games will be called remotely on radio | CBC Sports",
+      "description": "Sportsnet, the Toronto Blue Jays' radio rightsholder, will not resume on-site radio broadcasts for road games this season and will instead provide remote coverage from its downtown Toronto studio.",
+      "url": "http://www.cbc.ca/sports/baseball/mlb/mlb-sportsnet-blue-jays-radio-1.6751963",
+      "urlToImage": "https://i.cbc.ca/1.6751989.1676645964!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/wagner-ben-021723.JPG",
+      "publishedAt": "2023-02-18T01:22:15.4410656Z",
+      "content": "Blue Jays radio broadcaster Ben Wagner has been on-site at the team's player development complex for spring training to conduct interviews, gather information and prepare for the upcoming campaign.\r\n… [+4116 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Hannah Towey",
+      "title": "Wealthy Americans racing to buy Malta's 'golden passport,' last in EU",
+      "description": "For the first time, Americans are applying for \"golden passports\" more than any other nationality, according to Henley & Partners' USA wealth report.",
+      "url": "http://www.businessinsider.com/golden-visa-passport-malta-citizenship-by-investment-wealthy-americans-europe-2023-2",
+      "urlToImage": "https://i.insider.com/63efcdf8ce4074001943447e?width=1200&format=jpeg",
+      "publishedAt": "2023-02-17T19:02:59Z",
+      "content": "For some ultra-wealthy individuals, the most powerful asset money can buy isn't a superyacht or private jet it's a passport. \r\n\"Golden passports,\" formally known as citizenship by investment programs… [+4443 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": "Hannah Towey",
+      "title": "Wealthy Americans racing to buy Malta's 'golden passport,' last in EU",
+      "description": "For the first time, Americans are applying for \"golden passports\" more than any other nationality, according to Henley & Partners' USA wealth report.",
+      "url": "http://uk.businessinsider.com/golden-visa-passport-malta-citizenship-by-investment-wealthy-americans-europe-2023-2",
+      "urlToImage": "https://i.insider.com/63efcdf8ce4074001943447e?width=1200&format=jpeg",
+      "publishedAt": "2023-02-17T19:02:59Z",
+      "content": "For some ultra-wealthy individuals, the most powerful asset money can buy isn't a superyacht or private jet it's a passport. \r\n\"Golden passports,\" formally known as citizenship by investment programs… [+4443 chars]"
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": null,
+      "title": "☄️ New &#x27;Hero Ball&#x27; Episode",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/371669-hero-ball-2023-allstar-special",
+      "urlToImage": null,
+      "publishedAt": "2023-02-17T16:37:19.4379648Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": null,
+      "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+      "urlToImage": null,
+      "publishedAt": "2022-12-01T18:52:49.4768049Z",
+      "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    }
+  ]
+}
