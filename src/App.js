@@ -6,7 +6,8 @@ import News from "./components/News";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import LoadingBar from "react-top-loading-bar";
 export default class App extends Component {
-  apiKey = process.env.REACT_APP_NEWS_API;
+  apiKey = "c6f10152fc214cb58d7aa005f6ea1187";
+  // apiKey = process.env.REACT_APP_NEWS_API;
   // "dbe57b028aeb41e285a226a94865f7a7"
   constructor() {
     super();
